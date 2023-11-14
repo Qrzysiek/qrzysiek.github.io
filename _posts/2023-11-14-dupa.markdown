@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Welcome to Jekyll!"
+date:   2023-11-14 22:59:45 +0100
+categories: jekyll update
+---
+
+dupa dupa dupa
+
+matma:
+$$
+    \int_{i=0}^{\infty} x dx
+$$
