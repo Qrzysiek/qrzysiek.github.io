@@ -4,5 +4,5 @@ gem 'jekyll'
 gem 'rouge'
 gem 'tzinfo'
 gem 'tzinfo-data'
-gem 'wdm', '>= 0.1.0' if Gem.win_platform?
+gem 'wdm', '>= 0.1.0'
 gem "webrick", "~> 1.8"
