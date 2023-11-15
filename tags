@@ -1,0 +1,101 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	C:/Users/qrzys/lib/GithubPages/newsite/myblog/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	/80ee839/
+*:target	./_site/assets/css/main.css	/^body[a="dark"]{filter:invert(1)}body[a="dark"] img{filter:invert(1)}body[a="dark"] img.ioda{filt/;"	s
+.highlighter-rouge	./_sass/no-style-please.scss	/^div.highlighter-rouge code {$/;"	c
+.ioda	./_sass/no-style-please.scss	/^    &.ioda { filter: invert(0); }$/;"	c
+.post-meta	./_sass/no-style-please.scss	/^.post-meta { text-align: right; }$/;"	c
+.post-meta	./_site/assets/css/main.css	/^body[a="dark"]{filter:invert(1)}body[a="dark"] img{filter:invert(1)}body[a="dark"] img.ioda{filt/;"	c
+.w	./_sass/no-style-please.scss	/^.w {$/;"	c
+.w	./_site/assets/css/main.css	/^body[a="dark"]{filter:invert(1)}body[a="dark"] img{filter:invert(1)}body[a="dark"] img.ioda{filt/;"	c
+About	./_site/about.html	/^        <a href="\/">..<\/a><h1>About<\/h1>$/;"	h
+About	./_site/about.html	/^  <title>About<\/title><!-- Begin Jekyll SEO tag v2.7.1 -->$/;"	j
+All posts of category 'example2'	./_site/example2-archive.html	/^        <a href="\/">..<\/a><h1>All posts of category 'example2'<\/h1>$/;"	h
+All posts of category 'example2'	./_site/example2-archive.html	/^  <title>All posts of category 'example2'<\/title><!-- Begin Jekyll SEO tag v2.7.1 -->$/;"	j
+Archive	./_site/archive.html	/^        <a href="\/">..<\/a><h1>Archive<\/h1><ul><li>$/;"	h
+Archive	./_site/archive.html	/^  <title>Archive<\/title><!-- Begin Jekyll SEO tag v2.7.1 -->$/;"	j
+Contributing	./README.md	/^## Contributing$/;"	s	chapter:no style, please!
+Contributing	./_site/README.md	/^## Contributing$/;"	s	chapter:no style, please!
+Create archive pages	./README.md	/^### Create archive pages$/;"	S	section:no style, please!""Usage
+Create archive pages	./_site/README.md	/^### Create archive pages$/;"	S	section:no style, please!""Usage
+Customize the index page	./README.md	/^### Customize the index page$/;"	S	section:no style, please!""Usage
+Customize the index page	./_site/README.md	/^### Customize the index page$/;"	S	section:no style, please!""Usage
+Customize the menu	./README.md	/^### Customize the menu$/;"	S	section:no style, please!""Usage
+Customize the menu	./_site/README.md	/^### Customize the menu$/;"	S	section:no style, please!""Usage
+Dark mode for images	./README.md	/^#### Dark mode for images$/;"	t	subsection:no style, please!""Usage""Pro tips
+Dark mode for images	./_site/README.md	/^#### Dark mode for images$/;"	t	subsection:no style, please!""Usage""Pro tips
+Development	./README.md	/^## Development$/;"	s	chapter:no style, please!
+Development	./_site/README.md	/^## Development$/;"	s	chapter:no style, please!
+Dupa	./_site/dupa.html	/^  <h1>Dupa<\/h1>$/;"	h
+Dupa	./_site/dupa.html	/^  <title>Dupa<\/title><!-- Begin Jekyll SEO tag v2.7.1 -->$/;"	j
+Dupaa	./_site/dupaa.html	/^  <h1>Dupaa<\/h1>$/;"	h
+Dupaa	./_site/dupaa.html	/^  <title>Dupaa<\/title><!-- Begin Jekyll SEO tag v2.7.1 -->$/;"	j
+Dupaaa	./_site/dupaaa.html	/^  <h1>Dupaaa<\/h1>$/;"	h
+Dupaaa	./_site/dupaaa.html	/^  <title>Dupaaa<\/title><!-- Begin Jekyll SEO tag v2.7.1 -->$/;"	j
+Dupaaaa	./_site/dupaaaa.html	/^  <h1>Dupaaaa<\/h1>$/;"	h
+Dupaaaa	./_site/dupaaaa.html	/^  <title>Dupaaaa<\/title><!-- Begin Jekyll SEO tag v2.7.1 -->$/;"	j
+Dupaaaaa	./_site/dupaaaaa.html	/^  <h1>Dupaaaaa<\/h1>$/;"	h
+Dupaaaaa	./_site/dupaaaaa.html	/^  <title>Dupaaaaa<\/title><!-- Begin Jekyll SEO tag v2.7.1 -->$/;"	j
+Dupaaaaaa	./_site/dupaaaaaa.html	/^  <h1>Dupaaaaaa<\/h1>$/;"	h
+Dupaaaaaa	./_site/dupaaaaaa.html	/^  <title>Dupaaaaaa<\/title><!-- Begin Jekyll SEO tag v2.7.1 -->$/;"	j
+Dupaaaaaaa	./_site/dupaaaaaaa.html	/^  <h1>Dupaaaaaaa<\/h1>$/;"	h
+Dupaaaaaaa	./_site/dupaaaaaaa.html	/^  <title>Dupaaaaaaa<\/title><!-- Begin Jekyll SEO tag v2.7.1 -->$/;"	j
+Features	./README.md	/^## Features$/;"	s	chapter:no style, please!
+Features	./_site/README.md	/^## Features$/;"	s	chapter:no style, please!
+GitHub Pages installation	./README.md	/^### GitHub Pages installation$/;"	S	section:no style, please!""Installation
+GitHub Pages installation	./_site/README.md	/^### GitHub Pages installation$/;"	S	section:no style, please!""Installation
+Installation	./README.md	/^## Installation$/;"	s	chapter:no style, please!
+Installation	./_site/README.md	/^## Installation$/;"	s	chapter:no style, please!
+License	./README.md	/^## License$/;"	s	chapter:no style, please!
+License	./_site/README.md	/^## License$/;"	s	chapter:no style, please!
+Pro tips	./README.md	/^### Pro tips$/;"	S	section:no style, please!""Usage
+Pro tips	./_site/README.md	/^### Pro tips$/;"	S	section:no style, please!""Usage
+Testing site	./_site/index.html	/^  <h1>Testing site<\/h1><\/header><ul><li>info<\/li><ul><li>this is a testing page<\/li><li><a h/;"	h
+Testing site	./_site/index.html	/^  <title>Testing site<\/title><!-- Begin Jekyll SEO tag v2.7.1 -->$/;"	j
+Usage	./README.md	/^## Usage$/;"	s	chapter:no style, please!
+Usage	./_site/README.md	/^## Usage$/;"	s	chapter:no style, please!
+blockquote	./_site/assets/css/main.css	/^body[a="dark"]{filter:invert(1)}body[a="dark"] img{filter:invert(1)}body[a="dark"] img.ioda{filt/;"	s
+blockquote p	./_site/assets/css/main.css	/^body[a="dark"]{filter:invert(1)}body[a="dark"] img{filter:invert(1)}body[a="dark"] img.ioda{filt/;"	s
+body	./_site/assets/css/main.css	/^body[a="dark"]{filter:invert(1)}body[a="dark"] img{filter:invert(1)}body[a="dark"] img.ioda{filt/;"	s
+body[a="auto"]	./_site/assets/css/main.css	/^body[a="dark"]{filter:invert(1)}body[a="dark"] img{filter:invert(1)}body[a="dark"] img.ioda{filt/;"	s
+body[a="auto"] img	./_site/assets/css/main.css	/^body[a="dark"]{filter:invert(1)}body[a="dark"] img{filter:invert(1)}body[a="dark"] img.ioda{filt/;"	s
+body[a="auto"] img.ioda	./_site/assets/css/main.css	/^body[a="dark"]{filter:invert(1)}body[a="dark"] img{filter:invert(1)}body[a="dark"] img.ioda{filt/;"	c
+body[a="dark"]	./_site/assets/css/main.css	/^body[a="dark"]{filter:invert(1)}body[a="dark"] img{filter:invert(1)}body[a="dark"] img.ioda{filt/;"	s
+body[a="dark"] img	./_site/assets/css/main.css	/^body[a="dark"]{filter:invert(1)}body[a="dark"] img{filter:invert(1)}body[a="dark"] img.ioda{filt/;"	s
+body[a="dark"] img.ioda	./_site/assets/css/main.css	/^body[a="dark"]{filter:invert(1)}body[a="dark"] img{filter:invert(1)}body[a="dark"] img.ioda{filt/;"	c
+code	./_site/assets/css/main.css	/^body[a="dark"]{filter:invert(1)}body[a="dark"] img{filter:invert(1)}body[a="dark"] img.ioda{filt/;"	s
+dark-appearance	./_sass/no-style-please.scss	/^@mixin dark-appearance {$/;"	m
+div.highlighter-rouge code	./_site/assets/css/main.css	/^body[a="dark"]{filter:invert(1)}body[a="dark"] img{filter:invert(1)}body[a="dark"] img.ioda{filt/;"	s
+h2	./_site/assets/css/main.css	/^body[a="dark"]{filter:invert(1)}body[a="dark"] img{filter:invert(1)}body[a="dark"] img.ioda{filt/;"	s
+h3	./_site/assets/css/main.css	/^body[a="dark"]{filter:invert(1)}body[a="dark"] img{filter:invert(1)}body[a="dark"] img.ioda{filt/;"	s
+h4	./_site/assets/css/main.css	/^body[a="dark"]{filter:invert(1)}body[a="dark"] img{filter:invert(1)}body[a="dark"] img.ioda{filt/;"	s
+h5	./_site/assets/css/main.css	/^body[a="dark"]{filter:invert(1)}body[a="dark"] img{filter:invert(1)}body[a="dark"] img.ioda{filt/;"	s
+h6	./_site/assets/css/main.css	/^body[a="dark"]{filter:invert(1)}body[a="dark"] img{filter:invert(1)}body[a="dark"] img.ioda{filt/;"	s
+hr	./_site/assets/css/main.css	/^body[a="dark"]{filter:invert(1)}body[a="dark"] img{filter:invert(1)}body[a="dark"] img.ioda{filt/;"	s
+hr:after	./_site/assets/css/main.css	/^body[a="dark"]{filter:invert(1)}body[a="dark"] img{filter:invert(1)}body[a="dark"] img.ioda{filt/;"	s
+hr:before	./_site/assets/css/main.css	/^body[a="dark"]{filter:invert(1)}body[a="dark"] img{filter:invert(1)}body[a="dark"] img.ioda{filt/;"	s
+html	./_site/assets/css/main.css	/^body[a="dark"]{filter:invert(1)}body[a="dark"] img{filter:invert(1)}body[a="dark"] img.ioda{filt/;"	s
+img	./_site/assets/css/main.css	/^body[a="dark"]{filter:invert(1)}body[a="dark"] img{filter:invert(1)}body[a="dark"] img.ioda{filt/;"	s
+li	./_site/assets/css/main.css	/^body[a="dark"]{filter:invert(1)}body[a="dark"] img{filter:invert(1)}body[a="dark"] img.ioda{filt/;"	s
+no style, please!	./README.md	/^# no style, please!$/;"	c
+no style, please!	./_site/README.md	/^# no style, please!$/;"	c
+no-style-please	./_site/no-style-please.gemspec	/^  spec.name          = "no-style-please"$/;"	g
+no-style-please	./no-style-please.gemspec	/^  spec.name          = "no-style-please"$/;"	g
+ns7e8e35180101	./_site/feed.xml	/^<?xml version="1.0" encoding="utf-8"?><feed xmlns="http:\/\/www.w3.org\/2005\/Atom" ><generator /;"	n	uri:http://www.w3.org/2005/Atom
+p	./_site/assets/css/main.css	/^body[a="dark"]{filter:invert(1)}body[a="dark"] img{filter:invert(1)}body[a="dark"] img.ioda{filt/;"	s
+table	./_site/assets/css/main.css	/^body[a="dark"]{filter:invert(1)}body[a="dark"] img{filter:invert(1)}body[a="dark"] img.ioda{filt/;"	s
+td	./_site/assets/css/main.css	/^body[a="dark"]{filter:invert(1)}body[a="dark"] img{filter:invert(1)}body[a="dark"] img.ioda{filt/;"	s
+th	./_site/assets/css/main.css	/^body[a="dark"]{filter:invert(1)}body[a="dark"] img{filter:invert(1)}body[a="dark"] img.ioda{filt/;"	s
+{%- if page.title -%} {{ page.title }} {%- else -%} {{ site.title }} {%- endif -%}	./_includes/head.html	/^  <\/title>$/;"	j
+{{ page.title }}	./_layouts/archive.html	/^<h1>{{ page.title }}<\/h1>$/;"	h
+{{ page.title }}	./_layouts/page.html	/^<h1>{{ page.title }}<\/h1>$/;"	h
+{{ page.title }}	./_layouts/post.html	/^  <h1>{{ page.title }}<\/h1>$/;"	h
+{{ site.title }}	./_layouts/home.html	/^  <h1>{{ site.title }}<\/h1>$/;"	h
